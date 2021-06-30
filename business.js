@@ -1,7 +1,7 @@
 let userAgent = window.navigator.userAgent.toLowerCase();
 if (userAgent.indexOf('msie') != -1 ||
     userAgent.indexOf('trident') != -1) {
-    window.location.replace("/ie/index.html");
+    window.location.replace("https://aruruaruruaruru.github.io/btobLp/ie/index.html");
 }
 
 /* 到達したら要素を表示させる */
